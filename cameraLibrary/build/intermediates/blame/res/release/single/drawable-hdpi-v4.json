@@ -1,0 +1,382 @@
+[
+    {
+        "merged": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ic_error.png",
+        "source": "E:\\androidpro\\Mycamera\\cameraLibrary\\src\\main\\res\\drawable-hdpi\\ic_error.png"
+    },
+    {
+        "merged": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png",
+        "source": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\gg_ic_video_play_on.png",
+        "source": "E:\\androidpro\\Mycamera\\cameraLibrary\\src\\main\\res\\drawable-hdpi\\gg_ic_video_play_on.png"
+    },
+    {
+        "merged": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png",
+        "source": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ic_switcher_menu_indicator.png",
+        "source": "E:\\androidpro\\Mycamera\\cameraLibrary\\src\\main\\res\\drawable-hdpi\\ic_switcher_menu_indicator.png"
+    },
+    {
+        "merged": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\icon_back2.png",
+        "source": "E:\\androidpro\\Mycamera\\cameraLibrary\\src\\main\\res\\drawable-hdpi\\icon_back2.png"
+    },
+    {
+        "merged": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ic_camera_top_bar_flash_torch_normal.png",
+        "source": "E:\\androidpro\\Mycamera\\cameraLibrary\\src\\main\\res\\drawable-hdpi\\ic_camera_top_bar_flash_torch_normal.png"
+    },
+    {
+        "merged": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_ic_star_half_black_16dp.png",
+        "source": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ic_camera_top_bar_flash_on_normal.png",
+        "source": "E:\\androidpro\\Mycamera\\cameraLibrary\\src\\main\\res\\drawable-hdpi\\ic_camera_top_bar_flash_on_normal.png"
+    },
+    {
+        "merged": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\icon_rec.png",
+        "source": "E:\\androidpro\\Mycamera\\cameraLibrary\\src\\main\\res\\drawable-hdpi\\icon_rec.png"
+    },
+    {
+        "merged": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\video_detail_player_start.png",
+        "source": "E:\\androidpro\\Mycamera\\cameraLibrary\\src\\main\\res\\drawable-hdpi\\video_detail_player_start.png"
+    },
+    {
+        "merged": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_list_pressed_holo_light.9.png",
+        "source": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_light.9.png",
+        "source": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_list_pressed_holo_dark.9.png",
+        "source": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ic_camera_top_bar_flash_off_click.png",
+        "source": "E:\\androidpro\\Mycamera\\cameraLibrary\\src\\main\\res\\drawable-hdpi\\ic_camera_top_bar_flash_off_click.png"
+    },
+    {
+        "merged": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\progressbar_thumb_record_mix.png",
+        "source": "E:\\androidpro\\Mycamera\\cameraLibrary\\src\\main\\res\\drawable-hdpi\\progressbar_thumb_record_mix.png"
+    },
+    {
+        "merged": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ic_camera_top_bar_flash_off_normal.png",
+        "source": "E:\\androidpro\\Mycamera\\cameraLibrary\\src\\main\\res\\drawable-hdpi\\ic_camera_top_bar_flash_off_normal.png"
+    },
+    {
+        "merged": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_ic_star_half_black_36dp.png",
+        "source": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_popup_background_mtrl_mult.9.png",
+        "source": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_textfield_default_mtrl_alpha.9.png",
+        "source": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ic_switch_video.png",
+        "source": "E:\\androidpro\\Mycamera\\cameraLibrary\\src\\main\\res\\drawable-hdpi\\ic_switch_video.png"
+    },
+    {
+        "merged": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_ic_clear_mtrl_alpha.png",
+        "source": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_ic_menu_share_mtrl_alpha.png",
+        "source": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\albumset_preselected.png",
+        "source": "E:\\androidpro\\Mycamera\\cameraLibrary\\src\\main\\res\\drawable-hdpi\\albumset_preselected.png"
+    },
+    {
+        "merged": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\icon_back02.png",
+        "source": "E:\\androidpro\\Mycamera\\cameraLibrary\\src\\main\\res\\drawable-hdpi\\icon_back02.png"
+    },
+    {
+        "merged": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ic_switch_camera.png",
+        "source": "E:\\androidpro\\Mycamera\\cameraLibrary\\src\\main\\res\\drawable-hdpi\\ic_switch_camera.png"
+    },
+    {
+        "merged": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\video_pause_bg.png",
+        "source": "E:\\androidpro\\Mycamera\\cameraLibrary\\src\\main\\res\\drawable-hdpi\\video_pause_bg.png"
+    },
+    {
+        "merged": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ic_camera_top_bar_my_center_normal.png",
+        "source": "E:\\androidpro\\Mycamera\\cameraLibrary\\src\\main\\res\\drawable-hdpi\\ic_camera_top_bar_my_center_normal.png"
+    },
+    {
+        "merged": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ic_camera_top_bar_flash_auto_click.png",
+        "source": "E:\\androidpro\\Mycamera\\cameraLibrary\\src\\main\\res\\drawable-hdpi\\ic_camera_top_bar_flash_auto_click.png"
+    },
+    {
+        "merged": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_ic_star_black_36dp.png",
+        "source": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ic_camera_top_bar_my_center_pressed.png",
+        "source": "E:\\androidpro\\Mycamera\\cameraLibrary\\src\\main\\res\\drawable-hdpi\\ic_camera_top_bar_my_center_pressed.png"
+    },
+    {
+        "merged": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\btn_back_to_camera_normal.png",
+        "source": "E:\\androidpro\\Mycamera\\cameraLibrary\\src\\main\\res\\drawable-hdpi\\btn_back_to_camera_normal.png"
+    },
+    {
+        "merged": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ic_camera_top_bar_flash_auto_normal.png",
+        "source": "E:\\androidpro\\Mycamera\\cameraLibrary\\src\\main\\res\\drawable-hdpi\\ic_camera_top_bar_flash_auto_normal.png"
+    },
+    {
+        "merged": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_015.png",
+        "source": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\btn_stop_red.png",
+        "source": "E:\\androidpro\\Mycamera\\cameraLibrary\\src\\main\\res\\drawable-hdpi\\btn_stop_red.png"
+    },
+    {
+        "merged": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ic_camera_top_bar_sw_camera_normal.png",
+        "source": "E:\\androidpro\\Mycamera\\cameraLibrary\\src\\main\\res\\drawable-hdpi\\ic_camera_top_bar_sw_camera_normal.png"
+    },
+    {
+        "merged": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\btn_camera_all.png",
+        "source": "E:\\androidpro\\Mycamera\\cameraLibrary\\src\\main\\res\\drawable-hdpi\\btn_camera_all.png"
+    },
+    {
+        "merged": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_000.png",
+        "source": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\icon_back2_click.png",
+        "source": "E:\\androidpro\\Mycamera\\cameraLibrary\\src\\main\\res\\drawable-hdpi\\icon_back2_click.png"
+    },
+    {
+        "merged": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\focus_focused.9.png",
+        "source": "E:\\androidpro\\Mycamera\\cameraLibrary\\src\\main\\res\\drawable-hdpi\\focus_focused.9.png"
+    },
+    {
+        "merged": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_ic_go_search_api_mtrl_alpha.png",
+        "source": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png",
+        "source": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ic_stub.png",
+        "source": "E:\\androidpro\\Mycamera\\cameraLibrary\\src\\main\\res\\drawable-hdpi\\ic_stub.png"
+    },
+    {
+        "merged": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\focus_focus_failed.9.png",
+        "source": "E:\\androidpro\\Mycamera\\cameraLibrary\\src\\main\\res\\drawable-hdpi\\focus_focus_failed.9.png"
+    },
+    {
+        "merged": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\btn_shutter_video_click.png",
+        "source": "E:\\androidpro\\Mycamera\\cameraLibrary\\src\\main\\res\\drawable-hdpi\\btn_shutter_video_click.png"
+    },
+    {
+        "merged": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_ic_ab_back_mtrl_am_alpha.png",
+        "source": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\video_detail_player_top_bg.9.png",
+        "source": "E:\\androidpro\\Mycamera\\cameraLibrary\\src\\main\\res\\drawable-hdpi\\video_detail_player_top_bg.9.png"
+    },
+    {
+        "merged": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\btn_back_to_camera_pressed.png",
+        "source": "E:\\androidpro\\Mycamera\\cameraLibrary\\src\\main\\res\\drawable-hdpi\\btn_back_to_camera_pressed.png"
+    },
+    {
+        "merged": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_list_focused_holo.9.png",
+        "source": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\video_player_bg.png",
+        "source": "E:\\androidpro\\Mycamera\\cameraLibrary\\src\\main\\res\\drawable-hdpi\\video_player_bg.png"
+    },
+    {
+        "merged": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_ic_star_black_16dp.png",
+        "source": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
+        "source": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\icon_back02_click.png",
+        "source": "E:\\androidpro\\Mycamera\\cameraLibrary\\src\\main\\res\\drawable-hdpi\\icon_back02_click.png"
+    },
+    {
+        "merged": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_015.png",
+        "source": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ic_camera_top_bar_sw_camera_click.png",
+        "source": "E:\\androidpro\\Mycamera\\cameraLibrary\\src\\main\\res\\drawable-hdpi\\ic_camera_top_bar_sw_camera_click.png"
+    },
+    {
+        "merged": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ic_camera_top_bar_flash_torch_click.png",
+        "source": "E:\\androidpro\\Mycamera\\cameraLibrary\\src\\main\\res\\drawable-hdpi\\ic_camera_top_bar_flash_torch_click.png"
+    },
+    {
+        "merged": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\thumb_guide_tips_new.png",
+        "source": "E:\\androidpro\\Mycamera\\cameraLibrary\\src\\main\\res\\drawable-hdpi\\thumb_guide_tips_new.png"
+    },
+    {
+        "merged": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png",
+        "source": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_ic_voice_search_api_mtrl_alpha.png",
+        "source": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
+        "source": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\btn_shutter_video.png",
+        "source": "E:\\androidpro\\Mycamera\\cameraLibrary\\src\\main\\res\\drawable-hdpi\\btn_shutter_video.png"
+    },
+    {
+        "merged": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ic_camera_top_bar_setting_click.png",
+        "source": "E:\\androidpro\\Mycamera\\cameraLibrary\\src\\main\\res\\drawable-hdpi\\ic_camera_top_bar_setting_click.png"
+    },
+    {
+        "merged": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\focus_focusing.9.png",
+        "source": "E:\\androidpro\\Mycamera\\cameraLibrary\\src\\main\\res\\drawable-hdpi\\focus_focusing.9.png"
+    },
+    {
+        "merged": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_btn_rating_star_on_mtrl_alpha.png",
+        "source": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_btn_rating_star_on_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\gg_ic_video_play.png",
+        "source": "E:\\androidpro\\Mycamera\\cameraLibrary\\src\\main\\res\\drawable-hdpi\\gg_ic_video_play.png"
+    },
+    {
+        "merged": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_list_divider_mtrl_alpha.9.png",
+        "source": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\albumset_selected.png",
+        "source": "E:\\androidpro\\Mycamera\\cameraLibrary\\src\\main\\res\\drawable-hdpi\\albumset_selected.png"
+    },
+    {
+        "merged": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_btn_rating_star_off_mtrl_alpha.png",
+        "source": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_btn_rating_star_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\btn_stop_red_click.png",
+        "source": "E:\\androidpro\\Mycamera\\cameraLibrary\\src\\main\\res\\drawable-hdpi\\btn_stop_red_click.png"
+    },
+    {
+        "merged": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\have_new_effect_flag.png",
+        "source": "E:\\androidpro\\Mycamera\\cameraLibrary\\src\\main\\res\\drawable-hdpi\\have_new_effect_flag.png"
+    },
+    {
+        "merged": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_ic_search_api_mtrl_alpha.png",
+        "source": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_ic_menu_moreoverflow_mtrl_alpha.png",
+        "source": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\video_detail_player_pause.png",
+        "source": "E:\\androidpro\\Mycamera\\cameraLibrary\\src\\main\\res\\drawable-hdpi\\video_detail_player_pause.png"
+    },
+    {
+        "merged": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
+        "source": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ic_camera_top_bar_flash_on_click.png",
+        "source": "E:\\androidpro\\Mycamera\\cameraLibrary\\src\\main\\res\\drawable-hdpi\\ic_camera_top_bar_flash_on_click.png"
+    },
+    {
+        "merged": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ic_camera_top_bar_setting_normal.png",
+        "source": "E:\\androidpro\\Mycamera\\cameraLibrary\\src\\main\\res\\drawable-hdpi\\ic_camera_top_bar_setting_normal.png"
+    },
+    {
+        "merged": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "E:\\androidpro\\Mycamera\\cameraLibrary\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png",
+        "source": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_list_longpressed_holo.9.png",
+        "source": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\btn_camera_all_click.png",
+        "source": "E:\\androidpro\\Mycamera\\cameraLibrary\\src\\main\\res\\drawable-hdpi\\btn_camera_all_click.png"
+    }
+]
