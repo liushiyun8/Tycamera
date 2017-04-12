@@ -2,5 +2,9 @@
     {
         "merged": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\release\\menu\\main.xml",
         "source": "E:\\androidpro\\Mycamera\\cameraLibrary\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "E:\\androidproject\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\release\\menu\\main.xml",
+        "source": "E:\\androidproject\\Mycamera\\cameraLibrary\\src\\main\\res\\menu\\main.xml"
     }
 ]

@@ -15,6 +15,29 @@
     <include
         android:id="@+id/camera_bottom_bar"
          layout="@layout/camera_bottom_bar" />
+    <RelativeLayout
+        android:layout_above="@+id/camera_bottom_bar"
+        android:layout_centerHorizontal="true"
+        android:layout_width="@dimen/shutter_bottom_size"
+        android:layout_height="@dimen/shutter_bottom_size"
+        android:gravity="center" >
+
+        <ImageButton
+            android:id="@+id/btn_shutter_record"
+            android:layout_width="@dimen/shutter_bottom_size"
+            android:layout_height="@dimen/shutter_bottom_size"
+            android:background="@drawable/btn_shutter_record"
+            android:contentDescription="@string/app_name"
+            android:scaleType="fitXY" />
+
+        <ImageButton
+            android:id="@+id/btn_shutter_camera"
+            android:layout_width="@dimen/shutter_bottom_size"
+            android:layout_height="@dimen/shutter_bottom_size"
+            android:background="@drawable/btn_shutter_camera"
+            android:contentDescription="@string/app_name"
+            android:scaleType="fitXY" />
+    </RelativeLayout>
 
     <include
             android:id="@+id/camera_header_bar"

@@ -31,15 +31,14 @@ import android.widget.Toast;
 
 /** 
 * @ClassName: AlbumAty 
-* @Description: ���Activity
+* @Description: Activity
 * @author LinJ
-* @date 2015-1-6 ����5:03:48 
+* @date 2015-1-6 5:03:48
 *  
 */
 public class AlbumAty extends Activity implements View.OnClickListener,AlbumGridView.OnCheckedChangeListener{
 	public final static String TAG="AlbumAty";
 	/**
-	 * ��ʾ����View
 	 */
 	private AlbumGridView mAlbumView;
 

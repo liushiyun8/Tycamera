@@ -7,20 +7,6 @@
     android:background="@color/main_menu_bg"
     android:clickable="true"
     android:orientation="horizontal" >
-
-    <RelativeLayout
-        android:layout_width="44.0dip"
-        android:layout_height="fill_parent"
-        android:layout_weight="1.0"
-        android:gravity="center" >
-
-    </RelativeLayout>
-
-    <View
-        android:layout_width="44.0dip"
-        android:layout_height="fill_parent"
-        android:layout_weight="1.0" />
-
     <ImageView
         android:id="@+id/btn_switch_camera"
         android:layout_width="44.0dip"
@@ -36,13 +22,27 @@
         android:layout_weight="1.0"
         android:contentDescription="@string/app_name"
         android:src="@drawable/btn_flash_on" />
+    <RelativeLayout
+        android:layout_width="44.0dip"
+        android:layout_height="fill_parent"
+        android:layout_weight="1.0"
+        android:gravity="center" >
+
+    </RelativeLayout>
+
+    <View
+        android:layout_width="44.0dip"
+        android:layout_height="fill_parent"
+        android:layout_weight="1.0" />
+
 
     <ImageView
         android:id="@+id/btn_other_setting"
         android:layout_width="44.0dip"
-        android:layout_height="fill_parent"
+        android:layout_gravity="center"
+        android:layout_height="30dp"
         android:layout_weight="1.0"
         android:contentDescription="@string/app_name"
-        android:src="@drawable/ic_camera_top_bar_setting" />
+        android:src="@mipmap/photo" />
 
 </LinearLayout>

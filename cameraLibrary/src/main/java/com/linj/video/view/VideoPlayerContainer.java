@@ -31,9 +31,9 @@ import android.view.View.OnClickListener;;
 
 /** 
  * @ClassName: VideoContainer 
- * @Description:  视频播放器容器，包含了视频操作的一些控件和视频播放SurfaceView
+ * @Description:
  * @author LinJ
- * @date 2015-1-21 下午4:49:31 
+ * @date 2015-1-21
  *  
  */
 public class VideoPlayerContainer extends LinearLayout implements OnClickListener
@@ -97,7 +97,7 @@ public class VideoPlayerContainer extends LinearLayout implements OnClickListene
 
 	@Override
 	public void onCompletion(MediaPlayer mp) {
-		// 播放结束，隐藏该控件
+		// 锟斤拷锟脚斤拷锟斤拷锟斤拷锟截该控硷拷
 		setVisibility(View.GONE);
 		mProgressBar.setProgress(0);
 		mCurrentTimeView.setText("00:00");
@@ -106,21 +106,17 @@ public class VideoPlayerContainer extends LinearLayout implements OnClickListene
 
 	@Override
 	public void onSeekComplete(MediaPlayer mp) {
-		// 跳转至指定时间后，恢复播放
 		resumePlay();
 	}
 
 	@Override
 	public boolean onTouchEvent(MotionEvent event) {
-		// 由于在使用了framelayout布局，为了防止点击事件下发给下方的view，在此处捕获掉点击事件。
 		return true;
 	}
 	@Override
 	public void onPrepared(MediaPlayer mp) {
-		//准备播放，显示该控件
 		setVisibility(View.VISIBLE);
 		int duration=mp.getDuration();
-		//设置最大事件，单位秒
 		mDurationView.setText(mTimeFormat.format(new Date(duration)));
 		mProgressBar.setMax((int) Math.floor(duration/1000));
 		mp.start();
@@ -148,8 +144,7 @@ public class VideoPlayerContainer extends LinearLayout implements OnClickListene
 			resumePlay();
 		}
 	}
-	/**  
-	 *   恢复播放
+	/**
 	 */
 	@Override
 	public void resumePlay() {
@@ -159,8 +154,7 @@ public class VideoPlayerContainer extends LinearLayout implements OnClickListene
 		mPauseButton.setImageResource(R.drawable.video_detail_player_pause);
 	}
 
-	/**  
-	 *   暂停播放
+	/**
 	 */
 	@Override
 	public void pausedPlay() {

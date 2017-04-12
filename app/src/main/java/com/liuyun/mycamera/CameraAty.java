@@ -1,6 +1,7 @@
 package com.liuyun.mycamera;
 
 import java.io.File;
+import java.util.ArrayList;
 import java.util.List;
 
 import com.linj.FileOperateUtil;
@@ -19,6 +20,8 @@ import android.graphics.BitmapFactory;
 import android.graphics.drawable.BitmapDrawable;
 import android.media.ThumbnailUtils;
 import android.os.Bundle;
+import android.support.v7.widget.LinearLayoutManager;
+import android.support.v7.widget.RecyclerView;
 import android.util.Log;
 import android.view.View;
 import android.view.Window;
@@ -43,6 +46,10 @@ public class CameraAty extends Activity implements View.OnClickListener,TakePict
 	private ImageView mVideoIconView;
 	private View mHeaderBar;
 	private boolean isRecording=false;
+	private RecyclerView recyView;
+	private MyRecyclerAdapter myAdapter;
+	private List<File> list=new ArrayList<>();
+
 	@Override
 	public void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
@@ -61,6 +68,7 @@ public class CameraAty extends Activity implements View.OnClickListener,TakePict
 		mFlashView=(ImageView)findViewById(R.id.btn_flash_mode);
 		mSwitchModeButton=(ImageButton)findViewById(R.id.btn_switch_mode);
 		mSettingView=(ImageView)findViewById(R.id.btn_other_setting);
+		recyView = (RecyclerView) findViewById(R.id.recycle);
 
 
 		mThumbView.setOnClickListener(this);
@@ -71,6 +79,9 @@ public class CameraAty extends Activity implements View.OnClickListener,TakePict
 		mSwitchCameraView.setOnClickListener(this);
 		mSettingView.setOnClickListener(this);
 
+		recyView.setLayoutManager(new LinearLayoutManager(this,LinearLayoutManager.HORIZONTAL,false));
+		myAdapter=new MyRecyclerAdapter(this, list);
+		recyView.setAdapter(myAdapter);
 		mSaveRoot="test";
 		mContainer.setRootPath(mSaveRoot);
 		initThumbnail();
@@ -82,6 +93,9 @@ public class CameraAty extends Activity implements View.OnClickListener,TakePict
 		String thumbFolder=FileOperateUtil.getFolderPath(this, FileOperateUtil.TYPE_THUMBNAIL, mSaveRoot);
 		List<File> files=FileOperateUtil.listFiles(thumbFolder, ".jpg");
 		if(files!=null&&files.size()>0){
+			list.clear();
+			list.addAll(files);
+			myAdapter.notifyDataSetChanged();
 			Bitmap thumbBitmap=BitmapFactory.decodeFile(files.get(0).getAbsolutePath());
 			if(thumbBitmap!=null){
 				mThumbView.setImageBitmap(thumbBitmap);
@@ -181,6 +195,7 @@ public class CameraAty extends Activity implements View.OnClickListener,TakePict
 	@Override
 	public void onAnimtionEnd(Bitmap bm,boolean isVideo) {
 		if(bm!=null){
+			initThumbnail();
 			Bitmap thumbnail=ThumbnailUtils.extractThumbnail(bm, 213, 213);
 			mThumbView.setImageBitmap(thumbnail);
 			if(isVideo)

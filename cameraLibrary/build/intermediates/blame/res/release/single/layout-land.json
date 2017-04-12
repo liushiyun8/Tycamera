@@ -1,5 +1,9 @@
 [
     {
+        "merged": "E:\\androidproject\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\release\\layout-land\\album.xml",
+        "source": "E:\\androidproject\\Mycamera\\cameraLibrary\\src\\main\\res\\layout-land\\album.xml"
+    },
+    {
         "merged": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\release\\layout-land\\album.xml",
         "source": "E:\\androidpro\\Mycamera\\cameraLibrary\\src\\main\\res\\layout-land\\album.xml"
     }

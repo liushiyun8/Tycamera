@@ -1,15 +1,67 @@
 [
     {
+        "merged": "E:\\androidproject\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-port\\item_album_pager.xml",
+        "source": "E:\\androidproject\\Mycamera\\cameraLibrary\\build\\intermediates\\bundles\\debug\\res\\layout-port\\item_album_pager.xml"
+    },
+    {
+        "merged": "E:\\androidproject\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-port\\albumitem.xml",
+        "source": "E:\\androidproject\\Mycamera\\cameraLibrary\\build\\intermediates\\bundles\\debug\\res\\layout-port\\albumitem.xml"
+    },
+    {
         "merged": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-port\\cameracontainer.xml",
         "source": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\bundles\\debug\\res\\layout-port\\cameracontainer.xml"
+    },
+    {
+        "merged": "E:\\androidproject\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-port\\item_album_grid.xml",
+        "source": "E:\\androidproject\\Mycamera\\cameraLibrary\\build\\intermediates\\bundles\\debug\\res\\layout-port\\item_album_grid.xml"
+    },
+    {
+        "merged": "E:\\androidproject\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-port\\album_item_header_bar.xml",
+        "source": "E:\\androidproject\\Mycamera\\cameraLibrary\\build\\intermediates\\bundles\\debug\\res\\layout-port\\album_item_header_bar.xml"
     },
     {
         "merged": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-port\\item_album_pager.xml",
         "source": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\bundles\\debug\\res\\layout-port\\item_album_pager.xml"
     },
     {
+        "merged": "E:\\androidproject\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-port\\camera.xml",
+        "source": "E:\\androidproject\\Mycamera\\cameraLibrary\\build\\intermediates\\bundles\\debug\\res\\layout-port\\camera.xml"
+    },
+    {
+        "merged": "E:\\androidproject\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-port\\camera_bottom_bar.xml",
+        "source": "E:\\androidproject\\Mycamera\\cameraLibrary\\build\\intermediates\\bundles\\debug\\res\\layout-port\\camera_bottom_bar.xml"
+    },
+    {
+        "merged": "E:\\androidproject\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-port\\video_bottom_bar.xml",
+        "source": "E:\\androidproject\\Mycamera\\cameraLibrary\\build\\intermediates\\bundles\\debug\\res\\layout-port\\video_bottom_bar.xml"
+    },
+    {
+        "merged": "E:\\androidproject\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-port\\cameracontainer.xml",
+        "source": "E:\\androidproject\\Mycamera\\cameraLibrary\\build\\intermediates\\bundles\\debug\\res\\layout-port\\cameracontainer.xml"
+    },
+    {
+        "merged": "E:\\androidproject\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-port\\album.xml",
+        "source": "E:\\androidproject\\Mycamera\\cameraLibrary\\build\\intermediates\\bundles\\debug\\res\\layout-port\\album.xml"
+    },
+    {
         "merged": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-port\\item_album_grid.xml",
         "source": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\bundles\\debug\\res\\layout-port\\item_album_grid.xml"
+    },
+    {
+        "merged": "E:\\androidproject\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-port\\album_header_bar.xml",
+        "source": "E:\\androidproject\\Mycamera\\cameraLibrary\\build\\intermediates\\bundles\\debug\\res\\layout-port\\album_header_bar.xml"
+    },
+    {
+        "merged": "E:\\androidproject\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-port\\camera_header_bar.xml",
+        "source": "E:\\androidproject\\Mycamera\\cameraLibrary\\build\\intermediates\\bundles\\debug\\res\\layout-port\\camera_header_bar.xml"
+    },
+    {
+        "merged": "E:\\androidproject\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-port\\album_item_bottom_bar.xml",
+        "source": "E:\\androidproject\\Mycamera\\cameraLibrary\\build\\intermediates\\bundles\\debug\\res\\layout-port\\album_item_bottom_bar.xml"
+    },
+    {
+        "merged": "E:\\androidproject\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-port\\album_bottom_bar.xml",
+        "source": "E:\\androidproject\\Mycamera\\cameraLibrary\\build\\intermediates\\bundles\\debug\\res\\layout-port\\album_bottom_bar.xml"
     },
     {
         "merged": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-port\\video_bottom_bar.xml",

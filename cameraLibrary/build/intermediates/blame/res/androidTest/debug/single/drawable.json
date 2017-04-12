@@ -1,9 +1,5 @@
 [
     {
-        "merged": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ratingbar_small_material.xml",
-        "source": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_ratingbar_small_material.xml"
-    },
-    {
         "merged": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_dialog_material_background_dark.xml",
         "source": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_dialog_material_background_dark.xml"
     },
@@ -12,68 +8,176 @@
         "source": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_check_material.xml"
     },
     {
+        "merged": "E:\\androidproject\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "E:\\androidproject\\Mycamera\\cameraLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
         "merged": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_item_background_holo_light.xml",
         "source": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_item_background_holo_light.xml"
     },
     {
-        "merged": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\picture_setting_album_checkbox.xml",
-        "source": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable\\picture_setting_album_checkbox.xml"
+        "merged": "E:\\androidproject\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "E:\\androidproject\\Mycamera\\cameraLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "E:\\androidproject\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "E:\\androidproject\\Mycamera\\cameraLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "E:\\androidproject\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "E:\\androidproject\\Mycamera\\cameraLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "E:\\androidproject\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\btn_shutter_record.xml",
+        "source": "E:\\androidproject\\Mycamera\\cameraLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable\\btn_shutter_record.xml"
+    },
+    {
+        "merged": "E:\\androidproject\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\btn_flash_on.xml",
+        "source": "E:\\androidproject\\Mycamera\\cameraLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable\\btn_flash_on.xml"
+    },
+    {
+        "merged": "E:\\androidproject\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "E:\\androidproject\\Mycamera\\cameraLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "E:\\androidproject\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "E:\\androidproject\\Mycamera\\cameraLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "E:\\androidproject\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\ic_camera_top_bar_setting.xml",
+        "source": "E:\\androidproject\\Mycamera\\cameraLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable\\ic_camera_top_bar_setting.xml"
+    },
+    {
+        "merged": "E:\\androidproject\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "E:\\androidproject\\Mycamera\\cameraLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_ratingbar_small_material.xml"
     },
     {
         "merged": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_textfield_search_material.xml",
         "source": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_textfield_search_material.xml"
     },
     {
+        "merged": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\picture_setting_album_checkbox.xml",
+        "source": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable\\picture_setting_album_checkbox.xml"
+    },
+    {
+        "merged": "E:\\androidproject\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\ic_camera_top_bar_sw_camera.xml",
+        "source": "E:\\androidproject\\Mycamera\\cameraLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable\\ic_camera_top_bar_sw_camera.xml"
+    },
+    {
         "merged": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_cab_background_internal_bg.xml",
         "source": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_cab_background_internal_bg.xml"
     },
     {
-        "merged": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
-        "source": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+        "merged": "E:\\androidproject\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "E:\\androidproject\\Mycamera\\cameraLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_tab_indicator_material.xml"
     },
     {
-        "merged": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_switch_thumb_material.xml",
-        "source": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_switch_thumb_material.xml"
+        "merged": "E:\\androidproject\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\btn_back_to_camera_selector.xml",
+        "source": "E:\\androidproject\\Mycamera\\cameraLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable\\btn_back_to_camera_selector.xml"
+    },
+    {
+        "merged": "E:\\androidproject\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "E:\\androidproject\\Mycamera\\cameraLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "E:\\androidproject\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "E:\\androidproject\\Mycamera\\cameraLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "E:\\androidproject\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "E:\\androidproject\\Mycamera\\cameraLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_check_material.xml"
     },
     {
         "merged": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_btn_borderless_material.xml",
         "source": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_borderless_material.xml"
     },
     {
-        "merged": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_dialog_material_background_light.xml",
-        "source": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_dialog_material_background_light.xml"
+        "merged": "E:\\androidproject\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "E:\\androidproject\\Mycamera\\cameraLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
     },
     {
-        "merged": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\btn_play_vedio.xml",
-        "source": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable\\btn_play_vedio.xml"
+        "merged": "E:\\androidproject\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\btn_play_vedio_b.xml",
+        "source": "E:\\androidproject\\Mycamera\\cameraLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable\\btn_play_vedio_b.xml"
     },
     {
         "merged": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ratingbar_full_material.xml",
         "source": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_ratingbar_full_material.xml"
     },
     {
-        "merged": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
-        "source": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+        "merged": "E:\\androidproject\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "E:\\androidproject\\Mycamera\\cameraLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "E:\\androidproject\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\btn_back_02_selector.xml",
+        "source": "E:\\androidproject\\Mycamera\\cameraLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable\\btn_back_02_selector.xml"
+    },
+    {
+        "merged": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\androidproject\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\title_text_selector.xml",
+        "source": "E:\\androidproject\\Mycamera\\cameraLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable\\title_text_selector.xml"
+    },
+    {
+        "merged": "E:\\androidproject\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\btn_flash_torch.xml",
+        "source": "E:\\androidproject\\Mycamera\\cameraLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable\\btn_flash_torch.xml"
+    },
+    {
+        "merged": "E:\\androidproject\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\btn_play_vedio.xml",
+        "source": "E:\\androidproject\\Mycamera\\cameraLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable\\btn_play_vedio.xml"
+    },
+    {
+        "merged": "E:\\androidproject\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "E:\\androidproject\\Mycamera\\cameraLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "E:\\androidproject\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "E:\\androidproject\\Mycamera\\cameraLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "E:\\androidproject\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\progressbar_bg.xml",
+        "source": "E:\\androidproject\\Mycamera\\cameraLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable\\progressbar_bg.xml"
+    },
+    {
+        "merged": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "E:\\androidproject\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "E:\\androidproject\\Mycamera\\cameraLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "E:\\androidproject\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "E:\\androidproject\\Mycamera\\cameraLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\btn_play_vedio.xml",
+        "source": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable\\btn_play_vedio.xml"
+    },
+    {
+        "merged": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_dialog_material_background_light.xml"
     },
     {
         "merged": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_list_selector_holo_dark.xml",
         "source": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_holo_dark.xml"
     },
     {
-        "merged": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_list_selector_holo_light.xml",
-        "source": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_holo_light.xml"
+        "merged": "E:\\androidproject\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "E:\\androidproject\\Mycamera\\cameraLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_item_background_holo_dark.xml"
     },
     {
-        "merged": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_seekbar_track_material.xml",
-        "source": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_seekbar_track_material.xml"
+        "merged": "E:\\androidproject\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\btn_shutter_camera.xml",
+        "source": "E:\\androidproject\\Mycamera\\cameraLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable\\btn_shutter_camera.xml"
     },
     {
-        "merged": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
-        "source": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
-    },
-    {
-        "merged": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_item_background_holo_dark.xml",
-        "source": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_item_background_holo_dark.xml"
+        "merged": "E:\\androidproject\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "E:\\androidproject\\Mycamera\\cameraLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_dialog_material_background_light.xml"
     },
     {
         "merged": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\progressbar_bg.xml",
@@ -84,28 +188,60 @@
         "source": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_ratingbar_indicator_material.xml"
     },
     {
-        "merged": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_btn_colored_material.xml",
-        "source": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_colored_material.xml"
+        "merged": "E:\\androidproject\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\color_white_yellow.xml",
+        "source": "E:\\androidproject\\Mycamera\\cameraLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable\\color_white_yellow.xml"
     },
     {
-        "merged": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
-        "source": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+        "merged": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_spinner_textfield_background_material.xml"
     },
     {
-        "merged": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_seekbar_thumb_material.xml",
-        "source": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_seekbar_thumb_material.xml"
+        "merged": "E:\\androidproject\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "E:\\androidproject\\Mycamera\\cameraLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_ratingbar_indicator_material.xml"
     },
     {
-        "merged": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_text_cursor_material.xml",
-        "source": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_text_cursor_material.xml"
+        "merged": "E:\\androidproject\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\picture_setting_album_checkbox.xml",
+        "source": "E:\\androidproject\\Mycamera\\cameraLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable\\picture_setting_album_checkbox.xml"
+    },
+    {
+        "merged": "E:\\androidproject\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\thumbnail_bg.xml",
+        "source": "E:\\androidproject\\Mycamera\\cameraLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable\\thumbnail_bg.xml"
+    },
+    {
+        "merged": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\androidproject\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "E:\\androidproject\\Mycamera\\cameraLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "E:\\androidproject\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\btn_flash_off.xml",
+        "source": "E:\\androidproject\\Mycamera\\cameraLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable\\btn_flash_off.xml"
+    },
+    {
+        "merged": "E:\\androidproject\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "E:\\androidproject\\Mycamera\\cameraLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_holo_dark.xml"
     },
     {
         "merged": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_edit_text_material.xml",
         "source": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_edit_text_material.xml"
     },
     {
-        "merged": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_btn_radio_material.xml",
-        "source": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_radio_material.xml"
+        "merged": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_text_cursor_material.xml"
     },
     {
         "merged": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_cab_background_top_material.xml",
@@ -116,7 +252,55 @@
         "source": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_tab_indicator_material.xml"
     },
     {
+        "merged": "E:\\androidproject\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "E:\\androidproject\\Mycamera\\cameraLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
         "merged": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\btn_play_vedio_b.xml",
         "source": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable\\btn_play_vedio_b.xml"
+    },
+    {
+        "merged": "E:\\androidproject\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\btn_flash_auto.xml",
+        "source": "E:\\androidproject\\Mycamera\\cameraLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable\\btn_flash_auto.xml"
+    },
+    {
+        "merged": "E:\\androidproject\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "E:\\androidproject\\Mycamera\\cameraLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "E:\\androidproject\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "E:\\androidproject\\Mycamera\\cameraLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "E:\\androidproject\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\ic_camera_top_bar_my_center.xml",
+        "source": "E:\\androidproject\\Mycamera\\cameraLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable\\ic_camera_top_bar_my_center.xml"
+    },
+    {
+        "merged": "E:\\androidproject\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\btn_shutter_recording.xml",
+        "source": "E:\\androidproject\\Mycamera\\cameraLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable\\btn_shutter_recording.xml"
+    },
+    {
+        "merged": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "E:\\androidpro\\Mycamera\\cameraLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "E:\\androidproject\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\btn_photopage_top_bar_selector.xml",
+        "source": "E:\\androidproject\\Mycamera\\cameraLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable\\btn_photopage_top_bar_selector.xml"
+    },
+    {
+        "merged": "E:\\androidproject\\Mycamera\\cameraLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "E:\\androidproject\\Mycamera\\cameraLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_radio_material.xml"
     }
 ]
